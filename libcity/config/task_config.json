@@ -1,0 +1,9 @@
+{
+    "STRL": {
+        "HOME": {
+            "dataset_class": "HOMEDataset",
+            "executor": "HOMEExecutor",
+            "evaluator": "HOMEEvaluator"
+        }
+    }
+}
